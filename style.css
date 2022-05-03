@@ -1,0 +1,103 @@
+body{
+    text-align: center;
+    font-family: Calibri, sans-serif;
+    background-color: #f3f3f2;
+    margin: 0;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 300;
+}
+
+h2{
+    color:#a185ec;
+    font-size: 40px;
+    text-align:center;
+}
+
+h3{
+    font-size: 22px;
+    font-style: italic;
+}
+
+p{
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+img{
+    width: 100%;
+}
+
+.titulo-infancia{
+    color:#2cc97fef;
+    text-align:center;
+}
+
+.titulo-juventude{
+    color:#2cc9a2ef;
+    text-align:center;
+}
+
+.titulo-vidaAdulta{
+    color:#2c8fc9ef;
+    text-align:center;
+}
+
+section{
+    width: 60%;
+    margin: 0 auto;
+    text-align:left;
+}
+
+section section{
+    width: 100%;
+}
+
+ul{
+    list-style-type: none;
+    line-height: 2;
+    padding-left: 0;
+
+}
+
+a{
+    text-decoration: none;
+    color: #535455;
+    font-weight: 700;
+}
+
+.principal a{
+    color: white;
+    font-weight: normal;
+    font-style: bold;
+
+}
+
+.principal{
+    background: #FF6CB5;
+    height: 40px;
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+.principal li{
+    display: inline-block;
+    line-height: 2.5;
+    margin: 0 89px;
+
+}
+
+.grande {
+    font-size:larger;
+}
+
+button{
+    background-color:#FF6CB5;
+    border: 1px solid transparent;
+    padding: 2px 20px;
+    border-radius: 3px;
+
+}
+
